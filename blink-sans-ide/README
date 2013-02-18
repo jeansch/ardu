@@ -1,0 +1,10 @@
+Le but est de se passer de l'IDE.
+
+Exemple de programmation de l'arduino en utilisant le language UNO, et une Makefile
+pour les opérations de compilation/programmation.
+
+Testé sur debian sid, dépend du packet: arduino-mk (et ses dépendances)
+
+Fortement inspiré de:
+
+http://www.andrewvos.com/2011/04/29/how-to-upload-code-to-an-arduino-uno-from-the-command-line/

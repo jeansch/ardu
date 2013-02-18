@@ -1,0 +1,12 @@
+Le but est de se passer du langage UNO et des outils arduino.
+
+Exemple de programme en C pour le microcontroller Atmel de droite d'une
+carte arduino. On n'utilise plus du tout les outils arduino.
+
+Testé sur debian sid, dépend de: gcc-avr, avrdude, avr-libc
+Fortement inspiré de:
+
+http://www.andrewvos.com/2011/04/29/how-to-upload-code-to-an-arduino-uno-from-the-command-line/
+http://balau82.wordpress.com/2011/03/29/programming-arduino-uno-in-pure-c/
+
+
